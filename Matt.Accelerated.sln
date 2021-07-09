@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matt.Accelerated", "Matt.Accelerated\Matt.Accelerated.csproj", "{B07F67DE-3C72-4C5A-884E-C10838971C44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matt.Accelerated.Tests", "Matt.Accelerated.Tests\Matt.Accelerated.Tests.csproj", "{EEC0CA0F-BA24-437A-86A2-A82A43525011}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B07F67DE-3C72-4C5A-884E-C10838971C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07F67DE-3C72-4C5A-884E-C10838971C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07F67DE-3C72-4C5A-884E-C10838971C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07F67DE-3C72-4C5A-884E-C10838971C44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC0CA0F-BA24-437A-86A2-A82A43525011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC0CA0F-BA24-437A-86A2-A82A43525011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC0CA0F-BA24-437A-86A2-A82A43525011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC0CA0F-BA24-437A-86A2-A82A43525011}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
